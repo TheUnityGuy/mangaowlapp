@@ -6,6 +6,8 @@ Thanks to [Bielasia](https://github.com/BiELASiA) for help :)
 - fix for next chaper in reader (it's harder than I thougt it is heh)
 - dark / light theme for app
 - adblocker
+- home button as back arrow on "toolbar"
+- optional drawer with dev options such as logs and urlcheck
 
 # Screenshots
 ![preview](/images/MangaOwlApp-min.jpg)
