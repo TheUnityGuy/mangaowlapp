@@ -8,6 +8,7 @@ Thanks to [Bielasia](https://github.com/BiELASiA) for help :)
 - adblocker
 - home button as back arrow on "toolbar"
 - optional drawer with dev options such as logs and urlcheck
+- zooming
 
 # Screenshots
 ![preview](/images/MangaOwlApp-min.jpg)
